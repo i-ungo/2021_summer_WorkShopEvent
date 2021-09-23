@@ -41,5 +41,5 @@ ___
   
 ## 5.　昨年の例
   
-* [Googleスライド](https://drive.google.com/drive/folders/1KhrUdXJiY3hI9BqXzk5ArIBs1SecYMpT)
+* Googleスライド
 * [GitHubに載せた詳しい説明](https://github.com/i-ungo/2021_spring_ideathon)
