@@ -39,5 +39,5 @@ ___
   
 ## 5.　昨年の例
   
-* Googleスライド &nbsp &nbsp &nbsp (リンクはi-ungo全体グループに投稿しています)
+* Googleスライド &nbsp;&nbsp;&nbsp;(リンクはi-ungo全体グループに投稿しています)
 * [GitHubに載せた詳しい説明](https://github.com/i-ungo/2021_spring_ideathon)
